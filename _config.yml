@@ -1,8 +1,9 @@
-email: your-email@example.com
-description: ""
-domain: elondore.com
+# Settings
+email: no-reply@gmail.com
+#description: "" # nothing here
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elondore.com" # the base hostname & protocol for your site, e.g. http://example.com
+domain: elondore.com
 
 # Build settings
 theme: minima
