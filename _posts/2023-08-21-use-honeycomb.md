@@ -1,7 +1,9 @@
 ---
-title:  "Elevate Your App's Insight: Harnessing Analytics with Honeycomb's API in Swift"
-date:   2023-08-21 15:43:00 -0500
+title: "Elevate Your App's Insight: Harnessing Analytics with Honeycomb's API in Swift"
+date: 2023-08-21 15:43:00 -0500
 ---
+Elevate Your App's Insight: Harnessing Analytics with Honeycomb's API in Swift
+==============
 
 In the dynamic landscape of app development, understanding user behavior and application performance is paramount. Analytics plays a pivotal role in unveiling actionable insights that drive better decisions and enhance user experiences. Honeycomb, a robust observability platform, offers an API that seamlessly integrates analytics into your app. In this article, we'll explore how to leverage Honeycomb's API with Swift to infuse analytics and gain profound insights into your app's usage and performance.
 

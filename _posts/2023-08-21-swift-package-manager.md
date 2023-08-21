@@ -1,7 +1,9 @@
 ---
-title:  "Streamline Your Code Organization with Swift Package Manager"
-date:   2023-08-21 7:31:00 -0500
+title: "Streamline Your Code Organization with Swift Package Manager"
+date: 2023-08-21 7:31:00 -0500
 ---
+Streamline Your Code Organization with Swift Package Manager
+==============
 
 In the world of modern software development, organizing your code efficiently is crucial for maintaining a clean, manageable, and scalable project. As Swift continues to gain traction as a popular programming language for building iOS, macOS, watchOS, and tvOS applications, developers are constantly on the lookout for tools that can simplify their workflow. Enter Swift Package Manager (SPM), a powerful tool provided by Apple that offers an elegant solution for managing your project's dependencies and code organization. In this blog post, we'll explore the benefits of using Swift Package Manager to organize your code and enhance your development process.
 
