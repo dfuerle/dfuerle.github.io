@@ -3,6 +3,7 @@ layout: post
 title:  "Mastering Dependency Injection in Swift: Enhance Your Code's Flexibility"
 date:   2023-08-21 11:29:00 -0500
 categories: "swift"
+author: Dmitri
 ---
 When it comes to writing maintainable and scalable Swift applications, the concept of dependency injection shines as a fundamental architectural pattern. Dependency injection (DI) offers a systematic way to manage dependencies within your codebase, leading to cleaner, more modular, and easily testable code. In this article, we'll delve into the benefits of using dependency injection in Swift, along with practical examples to highlight its power.
 

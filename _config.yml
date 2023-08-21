@@ -30,11 +30,9 @@ lang: en
 subscribe: false
 
 # Build settings
-#theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
-
-remote_theme: daattali/beautiful-jekyll@6.0.1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
