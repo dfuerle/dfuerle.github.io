@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Simplify Network Requests in Swift Using the Endpoint Protocol"
 date:   2023-08-21 15:01:00 -0500
-categories: "networking"
-author: Dmitri
 ---
+
 In the realm of modern app development, networking is a fundamental aspect that allows your application to communicate with remote servers and APIs. Swift's built-in `URLSession` framework provides a robust foundation for handling network requests, but as your project grows, managing various endpoints can become challenging. To streamline this process and ensure a clean and maintainable codebase, leveraging a protocol-driven approach can be a game-changer. In this article, we'll explore the concept of using a protocol, aptly named `Endpoint`, to facilitate URL session requests and elevate your networking capabilities.
 
 ## Introducing the Endpoint Protocol
